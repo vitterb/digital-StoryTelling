@@ -1,0 +1,95 @@
+
+Conversation:Landing
+
+SetMusic:Sound/ES_Aircraft Carrier - SFX Producer.wav
+SetBackground:Images/Dublin_Airport
+
+EnterActor:Ji-Yeon
+
+Ji-Yeon: "Dublin Tower, this is Delta 123 on final approach for runway 10, request landing clearance."
+
+EnterActor:Control
+ 
+Control: "Delta 123, Dublin Tower, winds are calm, runway 10 cleared to land."
+Ji-Yeon: "Runway 10 cleared to land, Delta 123."
+Control: "Delta 123, confirm gear down and locked."
+Ji-Yeon: "Gear down and locked, Delta 123."
+Control: "Delta 123, roger that, continue approach, caution wake turbulence, traffic is a heavy Boeing 747 departing runway 16."
+Ji-Yeon: "Roger that, continuing approach, Delta 123."
+Control: "Delta 123, traffic alert, Cessna on short final for runway 10, runway not cleared, go around, maintain altitude."
+Ji-Yeon: "Roger that, going around, maintain altitude, Delta 123."
+Control: "Delta 123, traffic is clear, runway 10 now cleared to land, wind calm."
+Ji-Yeon: "Runway 10 cleared to land, Delta 123."
+Control: "Delta 123, welcome to Dublin Airport, taxi to gate via taxiway alpha, bravo and delta."
+Ji-Yeon: "Thank you, Dublin Tower, taxi to gate via alpha, bravo and delta, Delta 123."
+
+Conversation:Airport
+
+SetMusic:Sound/ES_Aircraft Carrier - SFX Producer.wav
+SetBackground:Images/Dublin_Airport_int
+
+EnterActor:Ji-Yeon
+
+Ji-Yeon: "Good afternoon, we've just arrived from London. Do we need to submit any paperwork or complete any forms?"
+
+EnterActor:Officer
+
+Officer: "Yes, please fill out these customs declaration forms and submit them along with your passports."
+
+EnterActor: Co-Pilot
+
+Co-Pilot: "Sure, thanks. Can you also let us know if there are any special procedures or restrictions we need to be aware of at this airport?"
+Officer: "Yes, we have some construction work happening near the taxiway, so please follow the marked paths when taxiing. Also, there is a NOTAM in effect for runway 25, so expect some delays when departing."
+Ji-Yeon: "Thank you for letting us know. We'll make sure to follow the procedures and inform the passengers about any delays."
+Officer: "Great, have a safe and pleasant stay here. Let us know if you need any further assistance."
+
+Conversation:Lobby
+
+SetMusic:Sound/ES_Fairy Lights - The Waiting World
+SetBackground:Images/Lobby
+
+EnterActor:Ji-Yeon
+
+Ji-Yeon: "Good evening, I have a reservation for a single room under the name Ji-yeon Ji-Yeon ."
+
+EnterActor:Receptionist
+
+Receptionist: "Hello, Miss Ji-Yeon. Yes, I have your reservation here. Can I see your passport and credit card, please?"
+Ji-Yeon: "Sure, here they are."
+Receptionist: "Thank you. I see that your room is on the 8th floor, and you have a breakfast buffet included in your booking. Your room key and Wi-Fi access code are in this envelope."
+Ji-Yeon: "Great, thank you. Can you also let me know what time breakfast is served?"
+Receptionist: "Certainly, breakfast is served from 7 am to 10 am in the restaurant on the ground floor. Is there anything else I can assist you with?"
+Ji-Yeon: "No, that's all. Thank you."
+Receptionist: "You're welcome, Miss Ji-Yeon. Enjoy your stay with us."
+
+Conversation:Restaurant
+
+SetMusic:Sound/ES_Hill Walk - Rune Dale
+SetBackground:Images/pub
+
+EnterActor:Ji-Yeon
+
+Ji-Yeon: "안녕하세요, 모두들. 이 식당은 어때요? 제가 아일랜드 음식을 많이 먹어보고 싶어서 여기 온 건데요." ("Hello, everyone. How is this restaurant? I came here because I want to try a lot of Irish food.")
+
+EnterActor:Co-Pilot
+
+Co-Pilot: "이 식당은 아일랜드 음식으로 유명한 곳이에요. 제가 추천해드릴게요. 이곳에서는 햄과 캐버벨치즈, 그리고 아일랜드 전통 요리인 아일리시 스튜가 유명해요." ("This restaurant is famous for its Irish cuisine. Let me recommend something for you. They're known for their ham and Irish cheddar cheese, and also for the traditional Irish dish, Irish stew.")
+
+EnterActor:Bill
+
+Bill: "저는 이 곳에서 아일랜드 맥주도 맛봤는데, 정말 맛있더라고요." ("I also tried Irish beer here, and it was really delicious.")
+Ji-Yeon: "그렇군요. 그럼 제가 햄과 캐버벨치즈, 그리고 아일리시 스튜를 시켜볼게요. 이 곳에서 유명한 것 같아요." ("I see. Then I'll order the ham and Irish cheddar cheese, and also the Irish stew. They seem to be famous here.")
+Co-Pilot: "좋은 선택이에요. 제가 요리사분께 추천해드릴게요."("That's a good choice. I'll recommend them to the chef.")
+
+Conversation:Restaurant
+
+SetMusic:Sound/ES_City Street 15 - SFX Producer
+SetBackground:Images/Dublin
+
+Ji-Yeon: "오늘은 정말 힘들었어요. 이번 비행이 끝나면 좀 쉴 수 있겠네요." ("Today was really tough. I'll be able to rest a bit once this flight is over.")
+Co-Pilot: "네, 저도 그래요. 그런데 아이슬란드 경치를 보면서 드라이브하는 건 정말 좋은 거 같아요." ("Yes, me too. But driving while seeing the scenery of Ireland is really nice.")
+Ji-Yeon: "네, 맞아요. 오늘 밤에는 호텔에서 푹 쉬고 내일 아일랜드를 더 여행해봐야겠어요."("Yes, you're right. I'll rest well at the hotel tonight and explore more of Ireland tomorrow.")
+Co-Pilot: "제가 추천해드린 아일랜드 음식도 더 맛보세요. 이번 여행에서 정말 많은 것을 느끼실 거에요." ("Make sure to try the Irish food I recommended as well. You'll experience a lot on this trip.")
+
+
+

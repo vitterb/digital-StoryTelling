@@ -1,0 +1,25 @@
+
+Conversation:AirportEndingPartOne
+
+SetMusic:Sound/ES_Aircraft Carrier - SFX Producer
+SetBackground:Images/Dublin_Airport
+
+EnterActor:Co-Pilot
+
+Co-pilot: did you hear the commotion in the hallway last night? 
+
+EnterActor:Ji-Yeon
+
+Ji-Yeon: Yes, It woke me up for a little while.
+Co-pilot: Must be an Irish thing, such behaviour would not pass in Korea! 
+Ji-Yeon: You are right, my friend.
+Ji-Yeon: Maybe we should request a different hotel next time.
+Co-Pilot: Might as well, we are pilots after all, we need our sleep!
+
+
+Conversation:AirportEndingPartTwo
+
+SetMusic:Sound/ES_Land of Freedom - Kikoru
+SetBackground:Images/PlaneEnding
+
+

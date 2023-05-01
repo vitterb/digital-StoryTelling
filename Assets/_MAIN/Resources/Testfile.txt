@@ -1,7 +1,0 @@
-Jhon "Hello World!" List(items -f long), playSong("Intro Song" -v 1)
-
-setScene("Classroom" -s 5.5)
-
-World "Hello,\"Quote Here\" right back at you!
-
-Narrator "And so ended the original 'Hello World' conversation." Playson(End, -p 0.5), list(players), savegame(1 -g all -f simple)
